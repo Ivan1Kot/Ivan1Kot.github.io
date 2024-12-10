@@ -23,38 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url:
+  - certificate_url: https://worldskills.ru/
     date_end: ''
     date_start: '2019-01-25'
     description: ''
     organization: WorldSkills
-    organization_url: 
+    organization_url: https://worldskills.ru/
     title: Диплом I место WorldSkills Russia
     url: uploads/ws-winner.pdf
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://worldskills.ru/
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    organization: WorldSkills
+    organization_url: https://worldskills.ru/
+    title: Сертификат эксперта WorldSkills 2021
+    url: uploads/ws-expert-2021.PDF
+  - certificate_url: https://worldskills.ru/
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2022-01-25'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: WorldSkills
+    organization_url: https://worldskills.ru/
+    title: Сертификат эксперта WorldSkills 2022
+    url: uploads/ws-expert-2022.PDF
 
 design:
   columns: '1'
