@@ -10,12 +10,12 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Достижения'
 subtitle:
 
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.

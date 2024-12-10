@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
-subtitle:
+title: Есть вопросы?
+subtitle: Напишите мне
 
 content:
   # Automatically link email and phone or display as text?
@@ -23,7 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'

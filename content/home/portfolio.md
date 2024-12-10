@@ -26,7 +26,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Все
       tag: '*'
     - name: Machine Learning
       tag: ML
@@ -34,6 +34,13 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: iOs/Android
+      tag: Mobile
+    - name: AR
+      tag: AR
+    - name: VR
+      tag: VR
+      
 
 design:
   columns: '1'

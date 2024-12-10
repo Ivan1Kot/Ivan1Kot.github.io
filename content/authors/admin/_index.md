@@ -66,8 +66,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Меня зовут Котовщиков Иван, я являюсь Unity3D разработчиком уже более 10 лет. Образование высшее, магистратура, специальность "Прикладная информатика". За время студенческой жизни стал победителем многих соревнований и грантовых конкурсов. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Первые поделки я начал разрабатывать ещё в 14 лет, с тех пор я развиваюсь в направлении Unity. Имею коммерческий опыт более 3 лет в качестве фрилансера. Имею большой опыт в разработке AR/VR с помощью Unity, а также опыт в мобильной разработке на Unity.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Проявляю особый интерес к следующим предметам: разработка приложений на платформе Unity3D, разработка видеоигр, разработка AR/VR, интерактивные презентации.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Скачать{{< /staticref >}} мое резюме в PDF.
