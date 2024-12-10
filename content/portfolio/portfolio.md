@@ -25,20 +25,11 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: Все
-      tag: '*'
-    - name: Mobile
-      tag: Mobile
-    - name: AR
-      tag: AR
-    - name: VR
-      tag: VR
       
 
 design:
   columns: '1'
-  view: masonry
+  view: card
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
