@@ -25,7 +25,7 @@ experience:
   - title: Unity3D разработчик (фриланс)
     company: LikeVR
     company_url: ''
-    company_logo: org-gc
+    company_logo: likevr
     location: Севастополь
     date_start: '2021-06-01'
     date_end: ''

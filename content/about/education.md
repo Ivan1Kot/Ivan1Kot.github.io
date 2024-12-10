@@ -25,7 +25,7 @@ experience:
   - title: Математическое моделирование, численные методы и комплексы программ
     company: Аспирантура, Севастопольский государтсвенный университет
     company_url: ''
-    company_logo: org-x
+    company_logo: sym11
     location: Севастополь
     date_start: '2024-09-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Прикладная информатика
     company: Магистратура, Севастопольский государтсвенный университет
     company_url: ''
-    company_logo: org-x
+    company_logo: sym11
     location: Севастополь
     date_start: '2022-09-01'
     date_end: '2024-07-31'
@@ -44,7 +44,7 @@ experience:
   - title: Прикладная информатика
     company: Бакалавриат, Севастопольский государтсвенный университет
     company_url: ''
-    company_logo: org-x
+    company_logo: sym11
     location: Севастополь
     date_start: '2018-09-01'
     date_end: '2022-07-31'
