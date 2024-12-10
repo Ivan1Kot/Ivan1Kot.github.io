@@ -4,5 +4,5 @@ summary: ВКР бакалавриат. Классическая игра Мор
 tags:
   - AR
 date: 2022-05-01
-external_link:
+#external_link:
 ---
