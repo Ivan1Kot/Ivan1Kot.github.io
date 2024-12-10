@@ -44,13 +44,13 @@ bio: Unity3D разработчик, мобильные платформы, AR/V
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:mail@ivankot.ru' # For a direct email link, use "mailto:test@example.org".
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://t.me/Ivan1Kot
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/Ivan1Kot
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,12 +58,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "mail@ivankot.ru"
 ---
 
 Меня зовут Котовщиков Иван, я являюсь Unity3D разработчиком уже более 10 лет. Образование высшее, магистратура, специальность "Прикладная информатика". За время студенческой жизни стал победителем многих соревнований и грантовых конкурсов. 

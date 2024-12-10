@@ -10,3 +10,7 @@ main:
   - name: Резюме
     url: about/
     weight: 20
+  - name: Портфолио
+    url: portfolio/
+    weight: 20
+

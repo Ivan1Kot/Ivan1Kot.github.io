@@ -28,7 +28,7 @@ experience:
     company_logo: org-x
     location: Севастополь
     date_start: '2024-09-01'
-    date_end: '2027-07-31'
+    date_end: ''
     description:
 
   - title: Прикладная информатика
