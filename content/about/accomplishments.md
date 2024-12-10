@@ -25,7 +25,7 @@ date_format: 2006
 item:
   - certificate_url:
     date_end: ''
-    date_start: '2019'
+    date_start: '2019-01-25'
     description: ''
     organization: WorldSkills
     organization_url: 
