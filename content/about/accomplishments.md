@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://worldskills.ru/
+  - certificate_url: uploads/ws-winner.pdf
     date_end: ''
     date_start: '2019-01-25'
     description: ''
     organization: WorldSkills
     organization_url: https://worldskills.ru/
     title: Диплом I место WorldSkills Russia
-    url: uploads/ws-winner.pdf
-  - certificate_url: https://worldskills.ru/
+    url: 
+  - certificate_url: uploads/ws-expert-2021.PDF
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: WorldSkills
     organization_url: https://worldskills.ru/
     title: Сертификат эксперта WorldSkills 2021
-    url: uploads/ws-expert-2021.PDF
-  - certificate_url: https://worldskills.ru/
+    url:
+  - certificate_url: uploads/ws-expert-2022.PDF
     date_end: ''
     date_start: '2022-01-25'
     description: ''
     organization: WorldSkills
     organization_url: https://worldskills.ru/
     title: Сертификат эксперта WorldSkills 2022
-    url: uploads/ws-expert-2022.PDF
+    url: 
 
 design:
   columns: '1'
