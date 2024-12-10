@@ -34,6 +34,8 @@ content:
       tag: AR
     - name: VR
       tag: VR
+    - name: VR
+      tag: VR
       
 
 design:
