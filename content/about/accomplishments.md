@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url:
+    date_end: ''
+    date_start: '2019'
+    description: ''
+    organization: WorldSkills
+    organization_url: 
+    title: Диплом I место WorldSkills Russia
+    url: uploads/ws-winner.pdf
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
