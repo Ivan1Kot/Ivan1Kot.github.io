@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Иван Котовщиков
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Unity3D Разработчик'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Unity3D разработчик, мобильные платформы, AR/VR.
 
 #interests:
 #- Artificial Intelligence
