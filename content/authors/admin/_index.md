@@ -58,12 +58,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mail@ivankot.ru"
+#email: "mail@ivankot.ru"
 ---
 
 Меня зовут Котовщиков Иван, я являюсь Unity3D разработчиком уже более 10 лет. Образование высшее, магистратура, специальность "Прикладная информатика". За время студенческой жизни стал победителем многих соревнований и грантовых конкурсов. 
