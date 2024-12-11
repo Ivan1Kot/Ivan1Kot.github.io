@@ -24,7 +24,7 @@ content:
 #    netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-      data-sitekey: 6LcqZZgqAAAAAFZeDPRo1CQJ7xhuXd-DztUVisyL
+      captcha-key: 6LcqZZgqAAAAAFZeDPRo1CQJ7xhuXd-DztUVisyL
 
 design:
   columns: '1'
