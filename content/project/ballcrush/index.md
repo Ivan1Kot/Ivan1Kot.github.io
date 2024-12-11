@@ -5,5 +5,7 @@ tags:
   - Mobile
   - Solo
 date: 2024-05-01
-external_link: https://gitlab.com/IvanKot/ball-crush
+#external_link: https://gitlab.com/IvanKot/ball-crush
 ---
+
+{{< icon name="github" pack="fas" >}} [GitLab репозиторий](https://gitlab.com/IvanKot/ball-crush) проекта
