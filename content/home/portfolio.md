@@ -34,9 +34,12 @@ content:
       tag: AR
     - name: VR
       tag: VR
-    - name: VR
-      tag: VR
-      
+    - name: Коммерческий
+      tag: Commercial
+    - name: Соло
+      tag: Solo
+    - name: В команде
+      tag: Team
 
 design:
   columns: '1'

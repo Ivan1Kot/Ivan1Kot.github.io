@@ -4,6 +4,8 @@ summary: AR - навигатор для зоопарка в Баку. Прило
 tags:
   - AR
   - Mobile
+  - Commercial
+  - Team
 date: 2021-05-01
 #external_link:
 ---
