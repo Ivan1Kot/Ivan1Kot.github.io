@@ -23,7 +23,7 @@ content:
       id: xyzyanqw
 #    netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
       data-sitekey: 6LcqZZgqAAAAAFZeDPRo1CQJ7xhuXd-DztUVisyL
 
 design:
