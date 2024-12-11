@@ -20,10 +20,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: Unity3D разработчик, мобильные платформы, AR/VR.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Видеоигры
+- AR/VR
+- Mobile
 
 #education:
 #  courses:
@@ -44,7 +44,7 @@ bio: Unity3D разработчик, мобильные платформы, AR/V
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mail@ivankot.ru' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:mail@ivankot.ru # For a direct email link, use "mailto:test@example.org".
   - icon: telegram
     icon_pack: fab
     link: https://t.me/Ivan1Kot

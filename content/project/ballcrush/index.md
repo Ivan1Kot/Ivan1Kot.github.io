@@ -7,5 +7,5 @@ tags:
 date: 2024-05-01
 #external_link: https://gitlab.com/IvanKot/ball-crush
 ---
-
-{{< icon name="github" pack="fas" >}} [GitLab репозиторий](https://gitlab.com/IvanKot/ball-crush) проекта
+⠀
+{{< icon name="custom/gitlab-logo-700" >}} [GitLab репозиторий](https://gitlab.com/IvanKot/ball-crush) проекта

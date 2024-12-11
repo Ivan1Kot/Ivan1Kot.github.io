@@ -8,3 +8,6 @@ tags:
 date: 2022-05-01
 #external_link:
 ---
+⠀
+![screen reader text](731641114.jpeg "Интерфейс приложения")
+![screen reader text](731641130.jpeg "Геймплей")

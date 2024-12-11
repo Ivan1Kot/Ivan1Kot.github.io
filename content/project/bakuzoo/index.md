@@ -9,5 +9,5 @@ tags:
 date: 2021-05-01
 #external_link:
 ---
-
-![screen reader text](731641002.jpeg "caption")
+⠀
+![screen reader text](731641002.jpeg "Интерфейс приложения")
